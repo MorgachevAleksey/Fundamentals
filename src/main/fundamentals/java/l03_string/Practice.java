@@ -1,4 +1,4 @@
-package java.l03_string;
+package l03_string;
 
 import java.util.Arrays;
 import java.util.StringJoiner;
